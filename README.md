@@ -20,7 +20,7 @@ private let baseURL = URL(string: "https://emoji-hub-proxy-5b6f86f2f5e1.herokuap
 4. Run ▶ 
 
 # Процесс проектирования и разработки
-	1.	архитектура: MVVM с ViewModel на основе Combine для реактивных запросов.
+	1.	архитектура: MVVM с ViewModel на основе Combine для реактивных запросов
 	2.	UI: SwiftUI (.rounded шрифты,элементы в виде карточек,фон)
 	3.	сервер: Node.js + Express единый /api/emojis прокси
 
@@ -37,6 +37,6 @@ Heroku бесплатный план ограничивает некоторые
 	•	если в API появится новая категория нужно будет обновить список самой 
 
 # Технический stack
-Backend: Node.js, Heroku CLI, VS Code, terminal
+Backend: Node.js, Heroku CLI, VS Code, terminal. 
 Frontend: XCode (SwiftUI)
 
