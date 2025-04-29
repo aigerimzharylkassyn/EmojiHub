@@ -22,7 +22,7 @@ private let baseURL = URL(string: "https://emoji-hub-proxy-5b6f86f2f5e1.herokuap
 # Процесс проектирования и разработки
 	1.	архитектура: MVVM с ViewModel на основе Combine для реактивных запросов
 	2.	UI: SwiftUI (.rounded шрифты,элементы в виде карточек,фон)
-	3.	сервер: Node.js + Express единый /api/emojis прокси
+	3.	сервер: Node.js + Express единый /api/emojis прокси https://github.com/aigerimzharylkassyn/emoji-hub-backend
 
 
 # Уникальные подходы и методологии
